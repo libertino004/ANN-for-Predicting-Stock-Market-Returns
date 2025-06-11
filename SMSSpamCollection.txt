@@ -1,0 +1,7 @@
+ham	Hey, are you coming to the party tonight?
+spam	Congratulations! You've won a $1000 Walmart gift card. Click here to claim now.
+ham	Can we meet for lunch tomorrow?
+spam	URGENT! Your account has been compromised. Respond immediately!
+ham	Don't forget to bring your notebook to class.
+spam	Win a brand new iPhone! Just reply YES to enter.
+ham	I'll call you later, just finishing up a meeting.
