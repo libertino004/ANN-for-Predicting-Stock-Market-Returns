@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import joblib
-from tensorflow.keras.models import load_model
+from sklearn.ensemble import RandomForestClassifier
 
 st.title("📈 ANN Stock Market Return Prediction")
 
